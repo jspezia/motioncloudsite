@@ -1,0 +1,4 @@
+lftpdeploy.sh
+*.pyc
+cache/*
+output/*
