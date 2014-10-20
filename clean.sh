@@ -1,3 +1,4 @@
 #!/bin/sh
-rm *.pyc
 nikola clean
+rm .doit.db
+rm *.pyc
