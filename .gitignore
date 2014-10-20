@@ -1,4 +1,5 @@
 lftpdeploy.sh
+.doit.db
 *.pyc
 cache/*
 output/*
