@@ -2,4 +2,5 @@ lftpdeploy.sh
 .doit.db
 *.pyc
 cache/*
+post/.ipynb_checkpoints
 output/*
