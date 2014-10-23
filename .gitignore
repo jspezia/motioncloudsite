@@ -1,6 +1,8 @@
+posts/test.ipynb
+posts/test.meta
 lftpdeploy.sh
 .doit.db
 *.pyc
 cache/*
-post/.ipynb_checkpoints
+posts/.ipynb_checkpoints
 output/*
