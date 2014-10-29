@@ -305,7 +305,9 @@ REDIRECTIONS = []
 #                    "./deploy.sh"]
 
 DEPLOY_COMMANDS = [
-					"./deploy.sh"
+					"./clean.sh",
+					"nikola build",
+					"./deploy.sh",
 ]
 
 
