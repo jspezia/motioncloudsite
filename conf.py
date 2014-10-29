@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Laurent Perrinet"
 BLOG_TITLE = "Motion Clouds"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://neuralensemble.github.io/MotionClouds/"
+SITE_URL = "http://motionclouds.invibe.net/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
@@ -99,7 +99,7 @@ NAVIGATION_LINKS = {
         ('/archive.html', 'Archives', 'icon-folder-open-alt'),
 		('/galleries/index.html', 'Galleries', 'icon-book'),
 #        ('/categories/index.html', 'Tags', 'icon-pushpin'),
-		('https://www.google.fr/cse/publicurl?cx=005955371941833639548:qupzal9fqky', 'Search', 'icon-search'),
+		('https://www.google.com/cse/publicurl?cx=005955371941833639548:sfuie6gs2q4', 'Search', 'icon-search'),
 #        ('/rss.xml', 'RSS', 'icon-rss'),
 #        ('/portfolio/portfolio.slides.html', 'Portfolio', 'icon-briefcase'),
         ('http://invibe.net', 'About my research', 'icon-user'),
