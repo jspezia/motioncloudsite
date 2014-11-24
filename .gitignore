@@ -1,4 +1,5 @@
 *.swp
+doc/.ipynb_checkpoints
 posts/results/
 posts/.ipynb_checkpoints
 .ipynb_checkpoints
