@@ -9,10 +9,10 @@ A basic presentation in psychopy
 """
 # width and height of your screen
 w, h = 1920, 1200
-w, h = 2560, 1440
+w, h = 1280, 800
 
 # width and height of the stimulus
-w_stim, h_stim = 1024, 1024
+w_stim, h_stim = 512, 512
 
 loops = 4
 
